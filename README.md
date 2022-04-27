@@ -12,6 +12,6 @@ We're gay and we need more places to hang out. Also, we have to pass this class.
 
 # TO - DO LIST
 
-<b>Michael:</b> Getting list of known gay places (Foursquare, Gay Cities)
+<b>Michael:</b> Getting list of known gay places (Foursquare, Gay Cities) <br>
 <b>Harper:</b> Figuring out how to read in Yelp reviews and parse
 
