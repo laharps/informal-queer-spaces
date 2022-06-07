@@ -8,7 +8,7 @@ Please see the Final Notebook for an aggregated narrative of our process. If you
 Michael Criste and Lauren Harper -- gay hacking urban planning nerds
 
 ## What are we doing?
-We are attempting scrape reviews from Yelp (or something similar) to identify informal queer spaces. 
+We are running Natural Language Processing techniques on review from the Yelp Academic Dataset to identify unlisted queer establishments. 
 
 ## Why are we doing this?
 We're gay and we need more places to hang out. Also, we have to pass this class. 
